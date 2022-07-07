@@ -2,6 +2,7 @@
 Meu primeiro projeto trata-se de uma extensão para Google Chrome, Microsoft Edge e Opera Max que concentra acessos e links fundamentais para uma mesa de análise, otimizando o tempo de operação, SLA e Lead Time. 
 
 CATALINK, agora OPEN SOURCE!
+
 ![CATALINKGIF](https://user-images.githubusercontent.com/85374093/177883347-084326aa-7a5a-42bd-a7d0-babb8358951c.gif)
 
 Catalink funciona com uma mistura de HTML + CSS e JavaScript. Facilmente mutavel para sua operação! 
