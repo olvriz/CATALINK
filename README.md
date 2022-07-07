@@ -1,5 +1,5 @@
 # CATALINK
-Meu primeiro projeto trata-se de uma extensão para Google Chrome, Microsoft Edge e Opera Max que concentra acessos e links fundamentais para uma mesa de análise, otimizando o tempo de operação, SLA e Lead Time. 
+Meu primeiro projeto trata-se de uma simples, pratica e eficiênte extensão para Google Chrome, Microsoft Edge e Opera Max que concentra acessos e links fundamentais para uma mesa de análise ou operacão, otimizando o tempo gasto em operação, SLA e Lead Time. 
 
 CATALINK, agora OPEN SOURCE!
 
