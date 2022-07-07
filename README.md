@@ -16,6 +16,7 @@ Em 2 passos é possivel adapta-la para seu estilo de trabalho ou de sua equipe.
 - Essas linhas em JavaScript são responsaveis por abrir os links, Os mesmos serão abertos ao mesmo tempo, respeitando a ordem de leitura (de cima para baixo).
 
 A Extensão sem as edições fica dessa forma: 
+
 ![image](https://user-images.githubusercontent.com/85374093/177883929-276b8f1c-5237-4902-a734-2cac7e73d2ce.png)
 
 
