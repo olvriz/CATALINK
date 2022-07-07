@@ -15,6 +15,10 @@ Em 2 passos é possivel adapta-la para seu estilo de trabalho ou de sua equipe.
  ![image](https://user-images.githubusercontent.com/85374093/177880081-a0efed02-29d9-4eea-9f2b-27f3c881e425.png)
 - Essas linhas em JavaScript são responsaveis por abrir os links, Os mesmos serão abertos ao mesmo tempo, respeitando a ordem de leitura (de cima para baixo).
 
+A Extensão sem as edições fica dessa forma: 
+![image](https://user-images.githubusercontent.com/85374093/177883929-276b8f1c-5237-4902-a734-2cac7e73d2ce.png)
+
+
 3° Passo (opicional): Easter Egg. É um botão escondido atrás no logo ''CATALINK'', é possivel colocar alguma imagem, comunicado ou que for de seu interesse!
 
 Fique a vontade para estilizar da forma que preferir. 
