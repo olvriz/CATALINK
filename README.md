@@ -11,7 +11,7 @@ Em 2 passos é possivel adapta-la para seu estilo de trabalho ou de sua equipe.
 1° Passo: Em ''popup.html'', Definir as siglas dos botões. Basta editar o conteúdo dos campos destacados em Vermelho!
 ![image](https://user-images.githubusercontent.com/85374093/177879941-7a7b364e-c14a-4280-a921-26840652d51b.png)
 
-2° Passo: Em ''BOTAOX.js'', Editar popups (opicionais) e inserir os links desejados dentro do script de execução. 
+2° Passo: Em ''BOTAOX.js'', Editar popups (opcionais) e inserir os links desejados dentro do script de execução. 
  ![image](https://user-images.githubusercontent.com/85374093/177880081-a0efed02-29d9-4eea-9f2b-27f3c881e425.png)
 - Essas linhas em JavaScript são responsaveis por abrir os links, Os mesmos serão abertos ao mesmo tempo, respeitando a ordem de leitura (de cima para baixo).
 
