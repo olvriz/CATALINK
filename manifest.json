@@ -1,0 +1,28 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+	"name": "CATALINK_OPEN_SOURCE",
+	"short_name": "CATLNK",
+	"manifest_version":2,
+	"version": "1.0",
+	"content_scripts": [
+		{   "run_at" :"document_end",
+			"matches": [
+				"<all_urls>"
+			],
+			"js": ["content.js"]
+		}
+	],
+	"background": {
+		"scripts": ["background.js"]
+	},
+	"browser_action": {
+		"default_icon": "on.png",
+		"default_popup": "popup.html",
+		"default_title": "CataLink"
+	},
+	"permissions":[
+		"storage"
+	],
+	"web_accessible_resources":["img/*.png"]
+}
