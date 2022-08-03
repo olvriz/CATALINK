@@ -1,7 +1,7 @@
 # CATALINK
 Com +100 orgulhosos downloads, meu primeiro projeto trata-se de uma simples, prática e eficiente extensão para Google Chrome, Microsoft Edge e Opera Max que concentra acessos e links fundamentais para uma mesa de análise ou operacão, otimizando o tempo gasto em operação, SLA e Lead Time. 
 
-CATALINK, agora OPEN SOURCE!
+[CATALINK, agora OPEN SOURCE!](https://github.com/olvriz/CATALINK/releases/tag/catalink)
 
 ![CATALINKGIF](https://user-images.githubusercontent.com/85374093/177883347-084326aa-7a5a-42bd-a7d0-babb8358951c.gif)
 
